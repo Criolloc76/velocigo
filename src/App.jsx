@@ -881,3 +881,6 @@ export default function App() {
       <footer className="max-w-6xl mx-auto px-4 py-10 text-xs text-gray-500">
         VelociGo · Guadalajara · © {new Date().getFullYear()}
       </footer>
+    </div>
+  );
+}
